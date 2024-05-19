@@ -1,9 +1,7 @@
-This Repo contains the implementation of ML ops for CIFAR-10 Classification task and FastAPI to deploy the model with dockerization
+This Repo contains the implementation of ML ops for CIFAR-10 Classification task and the model deployment in FasTAPI with dockerization
 
 #### Training:
-
-
-
+\\
 
 
 #### FasTAPI with Monitoring:
