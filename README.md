@@ -26,6 +26,7 @@ This Repo contains the implementation of ML ops for CIFAR-10 Classification task
 • Visualization in Grafana is added from the prometheus data source for the metrics API runtime, total API calls, API memory utilization, API CPU utilization and API network I/O bytes.
 
 • To start the node-exporter enter the following command:
+
         cd node_exporter-1.8.0.linux-amd64/ 
         ./node_exporter
 
