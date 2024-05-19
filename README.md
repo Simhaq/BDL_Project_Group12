@@ -1,7 +1,14 @@
 This Repo contains the implementation of ML ops for CIFAR-10 Classification task and the model deployment in FasTAPI with dockerization
 
 #### Training:
-\\
+• To perform training run the notebook /training/train.ipynb and the models from different experiments will saved at /training/models
+
+•  We did 5 experiments for model building and used mlflow to compare the results.
+
+•  To start mlflow server run:
+
+        cd triaining/
+        mlflow ui
 
 
 #### FasTAPI with Monitoring:
