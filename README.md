@@ -7,7 +7,7 @@ This Repo contains the implementation of ML ops for CIFAR-10 Classification task
 
 •  To start mlflow server run:
 
-        cd triaining/
+        cd training/
         mlflow ui
 
 
